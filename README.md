@@ -1,7 +1,7 @@
 # bus-tracking
-## This program uses assests from mapbox.com to generate a map of the boston area. Useing the known latitudes and longitudes of the bus stops between MIT and harvard a marker is placed on the map and animated to track the path that the bus follows.
-### To run this program first clone the repository, and then generate and add to the mapanimation.js file an accessToken for mapbox. Once that is compleat open the index.html in your browser
-#### With the base framwork of this code, future projects could expand on this by adding more bus routs through out the city for tracking, as well as the posible implementation of live data through gps tracking to more accurately track vehicles in real time
+## This program uses assets from mapbox.com to generate a map of the boston area. Using the known latitudes and longitudes of the bus stops between MIT and harvard a marker is placed on the map and animated to track the path that the bus follows.
+### To run this program first clone the repository, and then generate and add to the mapanimation.js file an accessToken for mapbox. Once that is complete open the index.html in your browser
+#### With the base framework of this code, future projects could expand on this by adding more bus routes throughout the city for tracking, as well as the possible implementation of live data through gps tracking to more accurately track vehicles in real time
 ##### MIT License
 
 Copyright (c) [2022] [Austin Quinn]
